@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1m2JJTPcbUibYSJQAh7vOjqQL0CRSQMINt2k+B4G/72OnCDCfdAaWTDqt+fh2M1bc9xV+yBgHA05Un8E7RMb1g==",
+  "dgSpecHash": "w4LcSdaRut+gRqE4udOzSvYrJ24NkqaemjeMhWdF8bmHXIyJjlM+na2BMZqQCygtObBGSh4YYXVQzeHGrE4sCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\dotnetexperiments\\mywebapp\\mywebapp.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\mywebapp\\mywebapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
